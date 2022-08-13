@@ -1,3 +1,4 @@
+[ineuron1.PDF](https://github.com/Pkprash1/Pkprash1/files/9330737/ineuron1.PDF)
 1. print: Hello
 #include<stdio.h>
 int main()
